@@ -7,7 +7,7 @@ This project is a tech test that was created as part of a hiring process.
 ### Installation
 To install this project, follow these steps:
 
-Clone this repository to your local machine using git clone https://github.com/hall2521/techtest.git
+Clone this repository to your local machine using git clone https://github.com/hall2521/techtestopen.git
 npm install any packages that are required
 Create a MySQL database using the Dump in this repo
 
